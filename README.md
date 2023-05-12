@@ -1,5 +1,6 @@
-# AtCoder Educational DP Contest 🐎
-
+# [AtCoder Educational DP Contest 🐎](https://atcoder.jp/contests/dp/tasks)
+ 
+**My solutions for dynamic programming problems of Atcoder Edu DP Contest**
 
 # Problem Set
 :heavy_check_mark: [A- Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)
