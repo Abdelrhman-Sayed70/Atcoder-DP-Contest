@@ -31,7 +31,7 @@
 
 - [ ] [N- Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)
 
-- [ ] (https://atcoder.jp/contests/dp/tasks/dp_o)
+- [ ] [O- Matching](https://atcoder.jp/contests/dp/tasks/dp_o)
 
 - [ ] [P- Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p)
 
